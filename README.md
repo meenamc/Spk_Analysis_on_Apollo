@@ -39,9 +39,9 @@ fig, ax = plot_speaker_count_bubbles(speaker_counts)
 
 Generated demo figure:
 
-```text
-figures/bubble_speaker_distribution.png
-```
+### Speaker-count bubble plot
+
+![Speaker-count bubble plot](figures/bubble_speaker_distribution.png)
 
 ### 2. Cross-mission activity plot
 
