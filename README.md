@@ -65,12 +65,11 @@ from cross_mission import plot_cross_mission_activity
 
 fig, ax = plot_cross_mission_activity(mission_activity)
 ```
-
 Generated demo figure:
 
-```text
-figures/cross_mission_activity.png
-```
+### Cross-mission activity plot
+
+![Cross-mission activity plot](figures/cross_mission_activity.png)
 
 ### 3. Speaker-specific cross-mission activity plot
 
@@ -100,9 +99,9 @@ fig, ax = plot_speaker_cross_mission_activity(
 
 Generated demo figure:
 
-```text
-figures/cross_mission_speaker_specific.png
-```
+### Speaker-specific cross-mission plot
+
+![Speaker-specific cross-mission plot](figures/cross_mission_speaker_specific.png)
 
 ### 4. Speaker-turn donut plot
 
@@ -130,9 +129,9 @@ fig, ax = plot_speaker_turn_donut(turns)
 
 Generated demo figure:
 
-```text
-figures/speaker_turn_donut.png
-```
+### Speaker-turn donut plot
+
+![Speaker-turn donut plot](figures/speaker_turn_donut.png)
 
 ## Dummy Data and Demo Figures
 
